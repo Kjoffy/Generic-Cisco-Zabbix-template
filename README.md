@@ -23,7 +23,7 @@ Based on your device it will create around
 - Cisco 881
 - Cisco 803
 
-As it is based on the default Cisco SNMPv2 template it will work on every generic Cisco Router/Switch.
+Template is based on the default Cisco SNMPv2 template it will work on every generic Cisco Router/Switch.
 
 # change
 Please do not forget to edit your {$SNMP_COMMUNITY} values
