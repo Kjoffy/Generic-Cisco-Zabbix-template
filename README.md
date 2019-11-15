@@ -1,5 +1,7 @@
 # Generic-Cisco-Zabbix-template
-Generic cisco zabbix template
+
+Check it out on Zabbix Share
+https://share.zabbix.com/network_devices/cisco/complete-cisco
 
 # Intro
 I was looking for a template that gave me as much information as possible on a Cisco device, working on Zabbix 4.0.x + and quick implementation of multiple Zabbix servers. Template is based on the stock Cisco SNMPv2 template but with some additional content
