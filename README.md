@@ -13,14 +13,17 @@ I was looking for a template that gave me as much information as possible on a C
 - Network interfaces Discovery
 
 Based on your device it will create around
-150-250 items
-100-150 triggers
-20-50 graphs
+- 150-250 items
+- 100-150 triggers
+- 20-50 graphs
 
 # Tested and worked on
-Cisco 800
-Cisco 878 k9
-Cisco 881
-Cisco 803
+- Cisco 800
+- Cisco 878 k9
+- Cisco 881
+- Cisco 803
 
 As it is based on the default Cisco SNMPv2 template it will work on every generic Cisco Router/Switch.
+
+# change
+Please do not forget to edit your {$SNMP_COMMUNITY} values
